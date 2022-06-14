@@ -1,0 +1,19 @@
+{
+  "name": "trick-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Dave Long",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-router": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
